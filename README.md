@@ -1,2 +1,8 @@
 # Election-Result_2024
-Election Results_2024 Report
+Election Results_2024 Report: Indian Parliamentary Election Results_2024 report has been created in power bi application & data has been extracted from MS SQL Server. 
+Dax function has been introduced to measure the KPI like Total Parliamentary Seats, Total seats won by NDA, I.N.D.I.A. & other political parties along with total candidates, total EVM & postal votes, total margins including total political parties contested in this election in all over the states along with union territory areas. 
+Donut chart has been used to showcase the total seats won by each & every individual alliance including the individual political parties’ parliamentary seats won percentage. Cluttered Bar chart has been utilized to analyze the Top 10 candidates by EVM votes along with Top 10 parliamentary constitution won by margin & 10 parliamentary constitution by total votes. 
+Later on, Tree map has been introduced to show the state wise parliamentary constitution by won count & total votes count by each individual political party in this election. Top 10 leading candidates won margin has published with the help of Line & stacked column chart where party alliance & count of trailing candidates also been discussed. 
+The Line & stacked column chart also helped to analyze the top 10 parliamentary constitution by sum of postal votes only along with party alliance & sum of margin. Filled map comes into the picture to show-off the state wise leading candidates & parliamentary constitution. 
+Two Table chart are used to detail elaboration with State id, State, Parliamentary Constituency, Party, Party alliance, Margin, EVM votes, Postal votes, Total votes along with Winning Candidate. 
+Finally, slicer been introduced to filter the data by State, Party (Political party), Party alliance, Parliamentary Constituency & Candidates to make the entire dashboard more dynamic.
